@@ -3,7 +3,7 @@
   "releaseNotes": "• Optimized backend settings for Android and Desktop (further reduces RAM, CPU, and GPU usage across all platforms).\n• Improved rail grinding system.\n• Rail switching is now implemented.\n• Rail boost pads are now implemented.\n• Skydiving areas.\n• Improved dash ramps.\n• 2.5D areas (both Boost/Classic style and Avatar-style sections).\n• Destructible objects (currently just a metal crate).",
   "downloads": {
     "android_32": "",
-    "android_64": "",
+    "android_64": "https://github.com/FewerJester/sonic-lost-ark-updater-data/releases/tag/v0.5.3",
     "windows_32": "",
     "windows_64": "",
     "windows_arm": "",
