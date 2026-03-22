@@ -1,6 +1,6 @@
 {
   "latestVersion": "0.5.3",
-  "releaseNotes": "Optimized backend settings for Android and Desktop (this should further reduce RAM, CPU and GPU usage and all platforms). Improved rail grinding system. Rail switching is now implemented. Rail boost pads are now implemented. Skydiving areas. Improved dash ramps. 2.5D areas (both Boost/Classic style and those weird 2.5D sections the Avatar had in some levels in Forces like in Chemical Plant). Destructible objects (currently just a metal crate)",
+  "releaseNotes": "• Optimized backend settings for Android and Desktop (further reduces RAM, CPU, and GPU usage across all platforms).\n• Improved rail grinding system.\n• Rail switching is now implemented.\n• Rail boost pads are now implemented.\n• Skydiving areas.\n• Improved dash ramps.\n• 2.5D areas (both Boost/Classic style and Avatar-style sections).\n• Destructible objects (currently just a metal crate).",
   "downloads": {
     "android_32": "",
     "android_64": "",
